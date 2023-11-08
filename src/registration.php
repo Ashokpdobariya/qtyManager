@@ -8,4 +8,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Hyva_LumaCheckout', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Hyva_QtyManager', __DIR__);
